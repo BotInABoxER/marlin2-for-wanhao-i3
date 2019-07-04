@@ -75,7 +75,7 @@
 // build by the user have been successfully uploaded into firmware.
 #define STRING_CONFIG_H_AUTHOR "Matthew Piercey, Bot-In-a-Box Educational Robotics" // Who made the changes.
 #define SHOW_BOOTSCREEN
-#define STRING_SPLASH_LINE1 "1.0.0" // will be shown during bootup in line 1
+#define STRING_SPLASH_LINE1 "2.0.0" // will be shown during bootup in line 1
 #define STRING_SPLASH_LINE2 "https://botinabox.ca"         // will be shown during bootup in line 2
 
 /**
